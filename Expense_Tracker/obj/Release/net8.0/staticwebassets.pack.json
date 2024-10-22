@@ -21,14 +21,6 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Desktop\\Priyanka\\my projects\\Expense_Tracker\\Expense_Tracker\\wwwroot\\dotnet-hosting-8.0.8-win.exe",
-      "PackagePath": "staticwebassets\\dotnet-hosting-8.0.8-win.exe"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Desktop\\Priyanka\\my projects\\Expense_Tracker\\Expense_Tracker\\wwwroot\\dotnet-runtime-8.0.8-win-x64.exe",
-      "PackagePath": "staticwebassets\\dotnet-runtime-8.0.8-win-x64.exe"
-    },
-    {
       "Id": "C:\\Users\\LENOVO\\Desktop\\Priyanka\\my projects\\Expense_Tracker\\Expense_Tracker\\wwwroot\\favicon-16x16.png",
       "PackagePath": "staticwebassets\\favicon-16x16.png"
     },

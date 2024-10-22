@@ -8,6 +8,7 @@ C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Expense_Tracker.pdb
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\DotNetEnv.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Humanizer.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -61,6 +62,7 @@ C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\NuGet.ProjectModel.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\NuGet.Protocol.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Sprache.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\Syncfusion.Licensing.dll
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Debug\net8.0\System.CodeDom.dll

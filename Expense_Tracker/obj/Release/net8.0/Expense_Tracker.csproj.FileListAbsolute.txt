@@ -254,3 +254,5 @@ C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\obj
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\obj\Release\net8.0\Expense_Tracker.pdb
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\obj\Release\net8.0\Expense_Tracker.genruntimeconfig.cache
 C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\obj\Release\net8.0\ref\Expense_Tracker.dll
+C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Release\net8.0\DotNetEnv.dll
+C:\Users\LENOVO\Desktop\Priyanka\my projects\Expense_Tracker\Expense_Tracker\bin\Release\net8.0\Sprache.dll
